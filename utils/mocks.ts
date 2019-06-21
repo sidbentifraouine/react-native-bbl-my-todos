@@ -16,50 +16,14 @@ export const TODOS: Todo[] = [
     text: 'Une todo, oui, mais qui claque sa mère',
     done: true
   },
-  ,
   {
     id: 4,
-    text: 'Une todo, oui, mais qui claque sa mère',
+    text: 'Une todo, oui, mais qui claque sa grand-mère',
     done: true
   },
   {
     id: 5,
-    text: 'Une todo, oui, mais qui claque sa mère',
-    done: true
-  },
-  {
-    id: 6,
-    text: 'Une todo, oui, mais qui claque sa mère',
-    done: true
-  },
-  {
-    id: 7,
-    text: 'Une todo, oui, mais qui claque sa mère',
-    done: true
-  },
-  {
-    id: 8,
-    text: 'Une todo, oui, mais qui claque sa mère',
-    done: true
-  },
-  {
-    id: 9,
-    text: 'Une todo, oui, mais qui claque sa mère',
-    done: true
-  },
-  {
-    id: 10,
-    text: 'Une todo, oui, mais qui claque sa mère',
-    done: true
-  },
-  {
-    id: 11,
-    text: 'Une todo, oui, mais qui claque sa mère',
-    done: true
-  },
-  {
-    id: 12,
-    text: 'Une todo, oui, mais qui claque sa mère',
-    done: true
+    text: 'Une todo, oui, mais qui claque sa reum',
+    done: false
   }
 ]
